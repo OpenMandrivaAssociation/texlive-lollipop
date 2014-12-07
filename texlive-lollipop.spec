@@ -6,7 +6,7 @@
 # catalog-version 1.03
 Name:		texlive-lollipop
 Version:	1.03
-Release:	2
+Release:	3
 Summary:	TeX made easy
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/lollipop
