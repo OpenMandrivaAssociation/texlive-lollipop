@@ -1,12 +1,6 @@
-# revision 33676
-# category Package
-# catalog-ctan /macros/lollipop
-# catalog-date 2014-04-19 12:16:09 +0200
-# catalog-license gpl3
-# catalog-version 1.03
 Name:		texlive-lollipop
-Version:	1.03
-Release:	4
+Version:	1.07
+Release:	1
 Summary:	TeX made easy
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/lollipop
@@ -47,45 +41,9 @@ is underway.
 %{_bindir}/lollipop
 %{_bindir}/lualollipop
 %{_bindir}/xelollipop
-%{_texmfdistdir}/tex/lollipop/dvilollipop.ini
-%{_texmfdistdir}/tex/lollipop/dvilualollipop.ini
-%{_texmfdistdir}/tex/lollipop/lollipop-define.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-document.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-float.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-fontdefs.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-fonts.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-heading.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-lists.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-output.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-plain.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-text.tex
-%{_texmfdistdir}/tex/lollipop/lollipop-tools.tex
-%{_texmfdistdir}/tex/lollipop/lollipop.ini
-%{_texmfdistdir}/tex/lollipop/lollipop.tex
-%{_texmfdistdir}/tex/lollipop/lualollipop.ini
-%{_texmfdistdir}/tex/lollipop/xelollipop.ini
+%{_texmfdistdir}/tex/lollipop
 %_texmf_fmtutil_d/lollipop
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/README
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/address.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/appendix.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/btxmac.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/comm.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/comment.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/example.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/extern.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/head.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/list.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/lollipop-manual.bib
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/lollipop-manual.pdf
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/lollipop-manual.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/mandefs.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/opt.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/out.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/prelim.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/struct.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/titlepag.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/manual/trace.tex
-%doc %{_texmfdistdir}/doc/otherformats/lollipop/tex-inde.xen
+%doc %{_texmfdistdir}/doc/otherformats/lollipop
 
 #-----------------------------------------------------------------------
 %prep
