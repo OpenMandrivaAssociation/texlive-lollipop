@@ -1,6 +1,6 @@
 Name:		texlive-lollipop
 Version:	1.07
-Release:	1
+Release:	2
 Summary:	TeX made easy
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/lollipop
