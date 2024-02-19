@@ -1,5 +1,5 @@
 Name:		texlive-lollipop
-Version:	67930
+Version:	69742
 Release:	1
 Summary:	TeX made easy
 Group:		Publishing
