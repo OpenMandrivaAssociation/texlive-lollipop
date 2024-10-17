@@ -3,7 +3,7 @@ Version:	69742
 Release:	1
 Summary:	TeX made easy
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/lollipop
+URL:		https://www.ctan.org/tex-archive/macros/lollipop
 License:	GPL3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lollipop.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lollipop.doc.r%{version}.tar.xz
