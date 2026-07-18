@@ -1,5 +1,6 @@
 %global tl_name lollipop
 %global tl_revision 69742
+%global tl_bin_links lollipop:tex
 
 Name:		texlive-%{tl_name}
 Epoch:		1
@@ -18,6 +19,8 @@ Requires:	texlive(hyphen-base)
 Requires:	texlive(lollipop.bin)
 Requires:	texlive(tex)
 Provides:	texlive(%{tl_name}) = %{tl_revision}
+Provides:	texlive(%{tl_name}.bin) = %{tl_revision}
+Provides:	texlive-%{tl_name}.bin = %{EVRD}
 
 %description
 Lollipop is "TeX made easy" -- it is a macro package that functions as a
